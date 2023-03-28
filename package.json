@@ -1,6 +1,7 @@
 {
 	"author": "Jane Doe",
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
 	"description": "Este es un proyecto para aprender desarrollo back-end y API",
 	"keywords": [
 		"descriptive",

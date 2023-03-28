@@ -2,6 +2,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jane Doe",
+	"description": "Este es un proyecto para aprender desarrollo back-end y API",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

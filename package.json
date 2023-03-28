@@ -1,12 +1,16 @@
-
 {
 	"author": "Jane Doe",
 	"name": "fcc-learn-npm-package-json",
 	"description": "Este es un proyecto para aprender desarrollo back-end y API",
-	"keywords": [ "descriptive", "related", "freecodecamp" ],
+	"keywords": [
+		"descriptive",
+		"related",
+		"freecodecamp"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"license": "MIT",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -15,5 +19,4 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
-	
 }

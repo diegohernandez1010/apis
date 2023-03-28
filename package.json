@@ -1,7 +1,7 @@
 
 {
 	"author": {
-	"name": "Diego"
+	"name": "Diego Hernandez"
 },
 	"dependencies": {
 		"express": "^4.14.0"
